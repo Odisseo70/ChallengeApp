@@ -2,8 +2,7 @@
 
 
 // wyniki dla liczy: 1970
-using System.ComponentModel.Design;
-using System.Runtime.Serialization.Formatters;
+
 
 int number = 1970;
 string numberAsString = number.ToString();
